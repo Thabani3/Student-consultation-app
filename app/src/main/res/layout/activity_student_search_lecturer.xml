@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".controller.StudentSearchLecturerActivity"
+    android:background="#F4F3F3"
+    android:id="@+id/id_show"
+    tools:actionBarNavMode="standard"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/activity_main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03454E"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/SearchViewStyle"
+        app:subtitleTextColor="@android:color/white"
+        app:titleTextColor="@android:color/white" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/serachPatRecycle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#8F8989" />
+
+</LinearLayout>

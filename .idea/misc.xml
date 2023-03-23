@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mxolisi/AndroidStudioProjects/ConsultationApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/black_lock_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/button_radius_accent_color.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/button_success.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/gradient.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_account_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_anon_user_48dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_chat_black_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_chat_message_background.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_date.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_local_hospital_black_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_lock_black_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_phone_android_black_24dp.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/ic_search_white.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/rounded_dialog.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/rounded_message.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable-v24/rounded_message2.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/add_photo.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/back_to_home_button.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/blue_border_rounded_cornwe.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/button_radius_primary_color.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/edit.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/email_orange.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_account.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_baseline_book_online_24.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_fullscreen_expand.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_fullscreen_skrink.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_home.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/ic_search_24.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/password_key.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/phone.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/profile_back_button.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/profile_bk.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/drawable/user.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/font/courgette.xml" value="0.22" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_chat.xml" value="0.12454710144927536" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_confirmed_appointment.xml" value="0.12466001813236627" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_fullscreen.xml" value="0.12466001813236627" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_lecturer_appointment.xml" value="0.12466001813236627" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_lecturer_main.xml" value="0.12466001813236627" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_lecturer_profile.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_my_calendar_lecturer.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_my_lecturers.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_my_students.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_register_user_information.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_show_video.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_student_appointment.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_student_main.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_student_main2.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_student_profile.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_student_search_lecturer.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_test.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_upload_video.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_video_upload.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_watch_videos.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/confirmed_appointements_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/content_profile.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/exoplayer_custom_controls.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_booking_step3.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_booking_step_one.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_booking_step_two.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_messages.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/fragment_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/layout_time_slot.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/lecturer_appointement_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/lecturer_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/message_chat_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/my_lecturer_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/my_student_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/student_appointments_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/student_request_item.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/welcome_slide1.xml" value="0.18" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/welcome_slide2.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/welcome_slide3.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/layout/welcome_slide4.xml" value="0.1" />
+        <entry key="..\:/Users/THABANI/Desktop/College-Consultation-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/Consultation App/app/src/main/res/drawable/ic_account.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/Consultation App/app/src/main/res/drawable/ic_home.xml" value="0.197" />
+        <entry key="..\:/Users/THABANI/Desktop/Consultation App/app/src/main/res/layout/activity_lecturer_main.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
